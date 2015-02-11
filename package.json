@@ -1,7 +1,7 @@
 {
   "name": "black-lion",
-  "version": "0.0.1",
-  "description": "Core of Arus",
+  "version": "0.1.0",
+  "description": "Bundles up your Remote Requests for Arus",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,7 @@
     "url": "https://github.com/arus/black-lion.git"
   },
   "keywords": [
-    "reactjs",
-    "flux"
+    "arus"
   ],
   "license": "GPL 3.0",
   "bugs": {

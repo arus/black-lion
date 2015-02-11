@@ -30,7 +30,9 @@ out/
 lib/components/
 .tmp
 development.json
+test.json
 
 
 # Generated files
 build/
+release/
